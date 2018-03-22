@@ -9,11 +9,11 @@ Seminar PPT/PDF archive repository
 
 ### Upload Format
 
-> YYYY_MM_DD_TITLE.extension
+> YYYY-MM-DD_TITLE.extension
 
 or
 
-> YYYY_MM_DD_TITLE_some-additional-info.extension
+> YYYY-MM-DD_TITLE_some-additional-info.extension
 
 __e.g.__
 
